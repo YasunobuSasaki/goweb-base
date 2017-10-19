@@ -1,0 +1,3 @@
+package: goweb-base
+import:
+- package: github.com/gin-gonic/gin
